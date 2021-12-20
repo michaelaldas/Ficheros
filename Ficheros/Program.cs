@@ -16,7 +16,7 @@ namespace Ficheros
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new FrmExplorador());
+            Application.Run(new FrmAbrirCarpeta());
         }
     }
 }
